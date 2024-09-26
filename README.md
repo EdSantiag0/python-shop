@@ -15,7 +15,7 @@ Este projeto foi criado como parte do meu aprendizado inicial em programação e
 
 1. **Clone o repositório** para sua máquina:
     ```bash
-    git clone https://github.com/seuusuario/nome-do-repositorio.git
+    git clone https://github.com/EdSantiag0/python-shop.git
     ```
 
 2. **Execute o script** no terminal:
